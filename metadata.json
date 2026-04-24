@@ -1,0 +1,6 @@
+{
+  "name": "AyuHealth AI",
+  "description": "An AI-powered healthcare assistant supporting multiple Indian languages with voice and text interaction for symptom analysis and diagnosis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
